@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Worksho_figures.backend.Models.Trapeze">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAACAAAAAAAAAAAAAAAAAAAEAAAAAFAAAAAA=</HashCode>
+      <FileName>Models\trapeze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Worksho_figures.backend.Models.Rectangle">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAIAAAAAAAAAEAAAAAEAEAAAA=</HashCode>
+      <FileName>Models\rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Worksho_figures.backend.Models.Parallelogram">
+    <Position X="1.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAEAAAAAGEAAAAA=</HashCode>
+      <FileName>Models\parallelogram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Worksho_figures.backend.Models.GeometricFigure">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <Members>
+      <Method Name="GeometricFigure" Hidden="true" />
+      <Field Name="name" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAEAAEAAAAAEAAAAAA=</HashCode>
+      <FileName>Models\GeometricFigure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Worksho_figures.backend.Models.Square">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAQAAAAAAAAAAAAAAAAAEAAAAAMAAAAAA=</HashCode>
+      <FileName>Models\square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rhombus">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAQAAAAAAEIAAkAEAAAAAA=</HashCode>
+      <FileName>Models\rhombus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Worksho_figures.backend.Models.Kite">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAIAAAAAAAAAEAAAAAEAEAAAA=</HashCode>
+      <FileName>Models\kite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Circle">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAEAACAAEAAAAQA=</HashCode>
+      <FileName>Models\circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Worksho_figures.backend.Models.Triangle">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAGAQAAAkEAAAAA=</HashCode>
+      <FileName>Models\triangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

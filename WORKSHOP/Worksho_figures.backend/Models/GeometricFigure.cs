@@ -1,12 +1,20 @@
 ﻿
 namespace Worksho_figures.backend.Models;
+
 public abstract class GeometricFigure
 {
-    public string Name { get; set; }
+    private string name;
+
+    public string Name
+    {
+        get { return name; }
+    }
+
     protected GeometricFigure(string name)
     {
-        Name = name;
+        this.name = name;
     }
+
     public abstract double GetArea();
     public abstract double GetPerimeter();
 
