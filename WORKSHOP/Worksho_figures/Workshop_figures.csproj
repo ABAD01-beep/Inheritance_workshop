@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Worksho_figures.backend\Worksho_figures.backend.csproj" />
+    <ProjectReference Include="..\Worksho_figures.backend\Workshop_figures.backend.csproj" />
   </ItemGroup>
 
 </Project>
